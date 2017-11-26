@@ -1,0 +1,26 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "kpp3",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "help me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SpazhevOM/kpp3.git"
+  },
+  "keywords": [
+    "kpp3"
+  ],
+  "author": "Spazhev Oleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpazhevOM/kpp3/issues"
+  },
+  "homepage": "https://github.com/SpazhevOM/kpp3#readme"
+}
